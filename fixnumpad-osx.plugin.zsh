@@ -1,4 +1,4 @@
-# Fix numeric keypad for Apple keyboards in ZSH
+# Enables numpad keys of Apple keyboards to be recognized in zsh via oh-my-zsh plugin
 # 0 . Enter
 bindkey -s "^[Op" "0"
 bindkey -s "^[On" "."
